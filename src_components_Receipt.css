@@ -1,0 +1,13 @@
+.receipt {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.receipt h3 {
+  margin: 0 0 10px;
+}
+
+.receipt p {
+  margin: 5px 0;
+}

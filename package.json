@@ -1,0 +1,33 @@
+
+```json
+{
+  "name": "mysedgwick-walmart",
+  "version": "1.0.0",
+  "description": "Expense management application for Walmart employees.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/mysedgwick-walmart.git"
+  },
+  "author": "Maria Royer <maria596royer@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "expense-management",
+    "walmart",
+    "react",
+    "mysedgwick",
+    "tracking"
+  ]
+}
